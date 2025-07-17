@@ -214,4 +214,14 @@ main {
   padding-bottom: 60px;
 }
 
+.disclaimer {
+  background-color: #ffe0b2; /* arancione chiaro */
+  color: #b71c1c; /* rosso scuro */
+  font-weight: bold;
+  border-top: 2px solid #b71c1c;
+  padding: 1.2em 0.5em;
+  margin-top: 1em;
+  letter-spacing: 0.02em;
+}
+
 /* FINE FOOTER */
